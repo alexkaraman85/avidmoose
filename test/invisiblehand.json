@@ -1,0 +1,473 @@
+{
+   "info":{
+      "total_results":13416,
+      "start":0
+   },
+   "errors":[
+
+   ],
+   "results":[
+      {
+         "mpns":[
+            "SU46WT5"
+         ],
+         "number_of_pages":1,
+         "eans":[
+
+         ],
+         "image_url":"http://images.electronicexpress.com/products-lg/4071.jpg",
+         "best_page":{
+            "price_confidence":"low",
+            "currency":"USD",
+            "retailer_name":"Electronicexpress.com",
+            "image_url":"http://images.electronicexpress.com/products-lg/4071.jpg",
+            "live_price_url":"http://api.invisiblehand.co.uk/v1/pages/live_price?url=http%3A%2F%2Fwww.electronicexpress.com%2Fcatalog%2F4071%2FSony",
+            "deeplink":"http://api.invisiblehand.co.uk/v1/pages/link?url=http%3A%2F%2Fwww.electronicexpress.com%2Fcatalog%2F4071%2FSony&tc=ih",
+            "pnp":229.95,
+            "title":"Sony TV Stand For Sony KP46WT500 (SU46WT5)",
+            "original_url":"http://www.electronicexpress.com/catalog/4071/Sony",
+            "region":"us",
+            "price":99.5,
+            "in_stock":true,
+            "description":"Sony TV Stand For Sony KP46WT500 (SU46WT5)"
+         },
+         "resource":"/products/fb15f89cdfe34b38d5f4cd71fd24acd2",
+         "isbns":[
+
+         ],
+         "title":"Sony TV Stand For Sony KP46WT500 (SU46WT5)",
+         "models":[
+
+         ],
+         "categories":[
+
+         ],
+         "brands":[
+            "Sony"
+         ],
+         "upcs":[
+            "027242612105"
+         ],
+         "id":"fb15f89cdfe34b38d5f4cd71fd24acd2",
+         "asins":[
+
+         ]
+      },
+      {
+         "mpns":[
+            "SU34XBR1"
+         ],
+         "number_of_pages":1,
+         "eans":[
+
+         ],
+         "image_url":"http://images.electronicexpress.com/products-lg/5212.jpg",
+         "best_page":{
+            "price_confidence":"low",
+            "currency":"USD",
+            "retailer_name":"Electronicexpress.com",
+            "image_url":"http://images.electronicexpress.com/products-lg/5212.jpg",
+            "live_price_url":"http://api.invisiblehand.co.uk/v1/pages/live_price?url=http%3A%2F%2Fwww.electronicexpress.com%2Fcatalog%2F5212%2FSony",
+            "deeplink":"http://api.invisiblehand.co.uk/v1/pages/link?url=http%3A%2F%2Fwww.electronicexpress.com%2Fcatalog%2F5212%2FSony&tc=ih",
+            "pnp":229.95,
+            "title":"Sony TV Stand For Sony 34\" 16:9 FD Trinitron® WEGA® TV (SU34XBR1)",
+            "original_url":"http://www.electronicexpress.com/catalog/5212/Sony",
+            "region":"us",
+            "price":249.5,
+            "in_stock":true,
+            "description":"Sony TV Stand For Sony 34\" 16:9 FD Trinitron® WEGA® TV (SU34XBR1)"
+         },
+         "resource":"/products/2a58ee24464260c79102daec7b83ae90",
+         "isbns":[
+
+         ],
+         "title":"Sony TV Stand For Sony 34\" 16:9 FD Trinitron® WEGA® TV (SU34XBR1)",
+         "models":[
+
+         ],
+         "categories":[
+
+         ],
+         "brands":[
+            "Sony"
+         ],
+         "upcs":[
+            "027242626133"
+         ],
+         "id":"2a58ee24464260c79102daec7b83ae90",
+         "asins":[
+
+         ]
+      },
+      {
+         "mpns":[
+            "SUGW3"
+         ],
+         "number_of_pages":1,
+         "eans":[
+
+         ],
+         "image_url":"http://images.electronicexpress.com/products-lg/5235.jpg",
+         "best_page":{
+            "price_confidence":"low",
+            "currency":"USD",
+            "retailer_name":"Electronicexpress.com",
+            "image_url":"http://images.electronicexpress.com/products-lg/5235.jpg",
+            "live_price_url":"http://api.invisiblehand.co.uk/v1/pages/live_price?url=http%3A%2F%2Fwww.electronicexpress.com%2Fcatalog%2F5235%2FSony",
+            "deeplink":"http://api.invisiblehand.co.uk/v1/pages/link?url=http%3A%2F%2Fwww.electronicexpress.com%2Fcatalog%2F5235%2FSony&tc=ih",
+            "pnp":229.95,
+            "title":"Sony Audio/Video TV Stand For Sony Grand WEGA TV (SUGW3)",
+            "original_url":"http://www.electronicexpress.com/catalog/5235/Sony",
+            "region":"us",
+            "price":499.5,
+            "in_stock":true,
+            "description":"Sony Audio/Video TV Stand For Sony Grand WEGA TV (SUGW3)"
+         },
+         "resource":"/products/e81b2206f0471a42547106e6219db595",
+         "isbns":[
+
+         ],
+         "title":"Sony Audio/Video TV Stand For Sony Grand WEGA TV (SUGW3)",
+         "models":[
+
+         ],
+         "categories":[
+
+         ],
+         "brands":[
+            "Sony"
+         ],
+         "upcs":[
+            "027242627994"
+         ],
+         "id":"e81b2206f0471a42547106e6219db595",
+         "asins":[
+
+         ]
+      },
+      {
+         "mpns":[
+            "RMV210"
+         ],
+         "number_of_pages":1,
+         "eans":[
+
+         ],
+         "image_url":"http://images.electronicexpress.com/products-lg/14091.jpg",
+         "best_page":{
+            "price_confidence":"low",
+            "currency":"USD",
+            "retailer_name":"Electronicexpress.com",
+            "image_url":"http://images.electronicexpress.com/products-lg/14091.jpg",
+            "live_price_url":"http://api.invisiblehand.co.uk/v1/pages/live_price?url=http%3A%2F%2Fwww.electronicexpress.com%2Fcatalog%2F14091%2FSony",
+            "deeplink":"http://api.invisiblehand.co.uk/v1/pages/link?url=http%3A%2F%2Fwww.electronicexpress.com%2Fcatalog%2F14091%2FSony&tc=ih",
+            "pnp":6.92,
+            "title":"Sony 4-Device Universal Remote (RMV210)",
+            "original_url":"http://www.electronicexpress.com/catalog/14091/Sony",
+            "region":"us",
+            "price":9.99,
+            "in_stock":true,
+            "description":"Sony 4-Device Universal Remote (RMV210)"
+         },
+         "resource":"/products/641c3af1fea2aef63d90399fc9ffe688",
+         "isbns":[
+
+         ],
+         "title":"Sony 4-Device Universal Remote (RMV210)",
+         "models":[
+
+         ],
+         "categories":[
+
+         ],
+         "brands":[
+            "Sony"
+         ],
+         "upcs":[
+            "027242722606"
+         ],
+         "id":"641c3af1fea2aef63d90399fc9ffe688",
+         "asins":[
+
+         ]
+      },
+      {
+         "mpns":[
+            "9423"
+         ],
+         "number_of_pages":1,
+         "eans":[
+
+         ],
+         "image_url":"http://content.etilize.com/images/240/240/10143774.jpg",
+         "best_page":{
+            "price_confidence":"low",
+            "currency":"USD",
+            "retailer_name":"Shoplet.com",
+            "image_url":"http://content.etilize.com/images/240/240/10143774.jpg",
+            "live_price_url":"http://api.invisiblehand.co.uk/v1/pages/live_price?url=http%3A%2F%2Fwww.shoplet.com%2FA%2F2C39423%2Fspdv",
+            "deeplink":"http://api.invisiblehand.co.uk/v1/pages/link?url=http%3A%2F%2Fwww.shoplet.com%2FA%2F2C39423%2Fspdv&tc=ih",
+            "pnp":0,
+            "title":"\"Sony Table Top TV Stand - 32\"\", 50\"\" Plasma TV, Plasma TV - Clear\"",
+            "original_url":"http://www.shoplet.com/A/2C39423/spdv",
+            "region":"us",
+            "price":286.6,
+            "in_stock":true,
+            "description":"\"Sony Table Top TV Stand - 32\"\", 50\"\" Plasma TV, Plasma TV - Clear\""
+         },
+         "resource":"/products/ea9671d95d1f1f217b85a4466d2c38f3",
+         "isbns":[
+
+         ],
+         "title":"\"Sony Table Top TV Stand - 32\"\", 50\"\" Plasma TV, Plasma TV - Clear\"",
+         "models":[
+
+         ],
+         "categories":[
+
+         ],
+         "brands":[
+            "Sony Corporation"
+         ],
+         "upcs":[
+
+         ],
+         "id":"ea9671d95d1f1f217b85a4466d2c38f3",
+         "asins":[
+
+         ]
+      },
+      {
+         "mpns":[
+            "F93088600 Bulb"
+         ],
+         "number_of_pages":2,
+         "eans":[
+
+         ],
+         "image_url":"http://images10.newegg.com/ProductImageCompressAll200/A0X8_1_20130501142525952.jpg",
+         "best_page":{
+            "price_confidence":"low",
+            "currency":"USD",
+            "retailer_name":"Newegg.com",
+            "image_url":"http://images10.newegg.com/ProductImageCompressAll200/A0X8_1_20130501142525952.jpg",
+            "live_price_url":"http://api.invisiblehand.co.uk/v1/pages/live_price?url=http%3A%2F%2Fwww.newegg.com%2FProduct%2FProduct.aspx%3FItem%3D9SIA0X80R02473",
+            "deeplink":"http://api.invisiblehand.co.uk/v1/pages/link?url=http%3A%2F%2Fwww.newegg.com%2FProduct%2FProduct.aspx%3FItem%3D9SIA0X80R02473&tc=ih",
+            "pnp":10.19,
+            "title":"Sony F-9308-860-0 DLP TV DLP TV High Quality Osram Bulbs",
+            "original_url":"http://www.newegg.com/Product/Product.aspx?Item=9SIA0X80R02473",
+            "region":"us",
+            "price":92.45,
+            "in_stock":true,
+            "description":"Sony F-9308-860-0 DLP TV DLP TV High Quality Osram Bulbs
+F93088600 Sony DLP Lamp
+"
+         },
+         "resource":"/products/b035c8f10c223b351eff19c95397db05",
+         "isbns":[
+
+         ],
+         "title":"Sony F-9308-860-0 DLP TV DLP TV High Quality Osram Bulbs",
+         "models":[
+
+         ],
+         "categories":[
+
+         ],
+         "brands":[
+            "Sony"
+         ],
+         "upcs":[
+            "675650014990"
+         ],
+         "id":"b035c8f10c223b351eff19c95397db05",
+         "asins":[
+
+         ]
+      },
+      {
+         "mpns":[
+            "KDL40EX700"
+         ],
+         "number_of_pages":1,
+         "eans":[
+
+         ],
+         "image_url":"http://images.electronicexpress.com/products-lg/16756.jpg",
+         "best_page":{
+            "price_confidence":"low",
+            "currency":"USD",
+            "retailer_name":"Electronicexpress.com",
+            "image_url":"http://images.electronicexpress.com/products-lg/16756.jpg",
+            "live_price_url":"http://api.invisiblehand.co.uk/v1/pages/live_price?url=http%3A%2F%2Fwww.electronicexpress.com%2Fcatalog%2F16756%2FSony",
+            "deeplink":"http://api.invisiblehand.co.uk/v1/pages/link?url=http%3A%2F%2Fwww.electronicexpress.com%2Fcatalog%2F16756%2FSony&tc=ih",
+            "pnp":99.95,
+            "title":"Sony BRAVIA KDL40EX700 40\" 1080p LED TV (KDL-40EX700 / KDL40EX700)",
+            "original_url":"http://www.electronicexpress.com/catalog/16756/Sony",
+            "region":"us",
+            "price":699.5,
+            "in_stock":true,
+            "description":"Sony BRAVIA KDL40EX700 40\" 1080p LED TV (KDL-40EX700 / KDL40EX700)"
+         },
+         "resource":"/products/afba2de43d33018eeab1cd12f19e34eb",
+         "isbns":[
+
+         ],
+         "title":"Sony BRAVIA KDL40EX700 40\" 1080p LED TV (KDL-40EX700 / KDL40EX700)",
+         "models":[
+            "KDL-40EX700"
+         ],
+         "categories":[
+
+         ],
+         "brands":[
+            "Sony"
+         ],
+         "upcs":[
+            "027242784864"
+         ],
+         "id":"afba2de43d33018eeab1cd12f19e34eb",
+         "asins":[
+
+         ]
+      },
+      {
+         "mpns":[
+            "KDL40EX720"
+         ],
+         "number_of_pages":1,
+         "eans":[
+
+         ],
+         "image_url":"http://images.electronicexpress.com/products-lg/18954.jpg",
+         "best_page":{
+            "price_confidence":"low",
+            "currency":"USD",
+            "retailer_name":"Electronicexpress.com",
+            "image_url":"http://images.electronicexpress.com/products-lg/18954.jpg",
+            "live_price_url":"http://api.invisiblehand.co.uk/v1/pages/live_price?url=http%3A%2F%2Fwww.electronicexpress.com%2Fcatalog%2F18954%2FSony",
+            "deeplink":"http://api.invisiblehand.co.uk/v1/pages/link?url=http%3A%2F%2Fwww.electronicexpress.com%2Fcatalog%2F18954%2FSony&tc=ih",
+            "pnp":99.95,
+            "title":"Sony KDL40EX720 40\" 1080p LED 3D TV (KDL-40EX720 / KDL40EX720)",
+            "original_url":"http://www.electronicexpress.com/catalog/18954/Sony",
+            "region":"us",
+            "price":799.5,
+            "in_stock":true,
+            "description":"Sony KDL40EX720 40\" 1080p LED 3D TV (KDL-40EX720 / KDL40EX720)"
+         },
+         "resource":"/products/3277979eac81485eef6377bae2b123d2",
+         "isbns":[
+
+         ],
+         "title":"Sony KDL40EX720 40\" 1080p LED 3D TV (KDL-40EX720 / KDL40EX720)",
+         "models":[
+            "KDL-40EX720"
+         ],
+         "categories":[
+
+         ],
+         "brands":[
+            "Sony"
+         ],
+         "upcs":[
+            "027242817111"
+         ],
+         "id":"3277979eac81485eef6377bae2b123d2",
+         "asins":[
+
+         ]
+      },
+      {
+         "mpns":[
+            "KDL65HX729"
+         ],
+         "number_of_pages":1,
+         "eans":[
+
+         ],
+         "image_url":"http://images.electronicexpress.com/products-lg/19456.jpg",
+         "best_page":{
+            "price_confidence":"low",
+            "currency":"USD",
+            "retailer_name":"Electronicexpress.com",
+            "image_url":"http://images.electronicexpress.com/products-lg/19456.jpg",
+            "live_price_url":"http://api.invisiblehand.co.uk/v1/pages/live_price?url=http%3A%2F%2Fwww.electronicexpress.com%2Fcatalog%2F19456%2FSony",
+            "deeplink":"http://api.invisiblehand.co.uk/v1/pages/link?url=http%3A%2F%2Fwww.electronicexpress.com%2Fcatalog%2F19456%2FSony&tc=ih",
+            "pnp":399.95,
+            "title":"Sony KDL65HX729 65\" 1080p LED 3D TV (KDL-65HX729 / KDL65HX729)",
+            "original_url":"http://www.electronicexpress.com/catalog/19456/Sony",
+            "region":"us",
+            "price":3598,
+            "in_stock":true,
+            "description":"Sony KDL65HX729 65\" 1080p LED 3D TV (KDL-65HX729 / KDL65HX729)"
+         },
+         "resource":"/products/65b2c317cd2d0732015abc52380753e3",
+         "isbns":[
+
+         ],
+         "title":"Sony KDL65HX729 65\" 1080p LED 3D TV (KDL-65HX729 / KDL65HX729)",
+         "models":[
+            "KDL-65HX729"
+         ],
+         "categories":[
+
+         ],
+         "brands":[
+            "Sony"
+         ],
+         "upcs":[
+            "027242816954"
+         ],
+         "id":"65b2c317cd2d0732015abc52380753e3",
+         "asins":[
+
+         ]
+      },
+      {
+         "mpns":[
+            "SATW60"
+         ],
+         "number_of_pages":1,
+         "eans":[
+
+         ],
+         "image_url":"http://images.electronicexpress.com/products-lg/6585.jpg",
+         "best_page":{
+            "price_confidence":"low",
+            "currency":"USD",
+            "retailer_name":"Electronicexpress.com",
+            "image_url":"http://images.electronicexpress.com/products-lg/6585.jpg",
+            "live_price_url":"http://api.invisiblehand.co.uk/v1/pages/live_price?url=http%3A%2F%2Fwww.electronicexpress.com%2Fcatalog%2F6585%2FSony",
+            "deeplink":"http://api.invisiblehand.co.uk/v1/pages/link?url=http%3A%2F%2Fwww.electronicexpress.com%2Fcatalog%2F6585%2FSony&tc=ih",
+            "pnp":20,
+            "title":"Sony DirecTV - Ultimate TV Digital Recorder Combo (SAT-W60 / SATW60)",
+            "original_url":"http://www.electronicexpress.com/catalog/6585/Sony",
+            "region":"us",
+            "price":99.5,
+            "in_stock":true,
+            "description":"Sony DirecTV - Ultimate TV Digital Recorder Combo (SAT-W60 / SATW60)"
+         },
+         "resource":"/products/f0aadf92cff7b26a684287e119c82654",
+         "isbns":[
+
+         ],
+         "title":"Sony DirecTV - Ultimate TV Digital Recorder Combo (SAT-W60 / SATW60)",
+         "models":[
+            "SAT-W60"
+         ],
+         "categories":[
+
+         ],
+         "brands":[
+            "Sony"
+         ],
+         "upcs":[
+            "027242579590"
+         ],
+         "id":"f0aadf92cff7b26a684287e119c82654",
+         "asins":[
+
+         ]
+      }
+   ]
+}
